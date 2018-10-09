@@ -1,6 +1,6 @@
 package TazwarBelal;
 
-public class Main {
+public class TestFile {
 
     public static void main(String[] args) {
 	// write your code here
